@@ -1,0 +1,103 @@
+/* CSS3 - mais updateado */
+body{
+    font-family: 'Poppins';    
+    
+}
+
+section{
+    background-image: url('../img/photo_2021-02-25_21-02-24.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    
+}
+
+section#page1  div{
+    width: 30%;
+    position: relative;
+    left: 20em;
+    align-self: center;
+
+
+}
+
+
+
+.actionButton{
+    font-family: 'Poppins';
+    padding: 2% 5%;
+    font-size: .85em;
+    background-color: white;
+    border-radius: 30px;
+    border-width: 0em;
+
+}
+
+section#page1 p{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: .8em;
+}
+
+section#page1 h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2.8em;
+    margin: 0 10px;
+    
+
+}
+
+section#page2 div{
+    width: 100%;
+    position: absolute;
+    left: 20em;
+    display: flex;
+    
+}
+
+
+section#page2 h1{
+
+    width: 100%;
+    position: absolute;
+    top: 3em;
+    align-self: center;
+}
+
+section#page2 p{
+    width: 100%;
+    position: absolute;
+    top: 9em;
+    align-self: center;
+    
+}
+
+section#page2 #p2 p{
+    width: 100%;
+    position: absolute;
+    top: 15em;  
+    left: 20em;
+    align-self: center;
+    background-color: sandybrown;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#hamburguer-icon {
+    height: 1.5em;
+    position: absolute;
+    top: 2%;
+    right: 0.2%;
+
+
+
+}
+#pingulinho{
+    background-image: url('../img/photo_2021-02-25_21-02-24.jpg');
+
+}

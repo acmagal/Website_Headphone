@@ -1,0 +1,20 @@
+- cria as pastas css, fonts, img e js
+- Criar o index.js (dentro da pasta js), o index.html fora de todas as pastas e o index.css dentro da pasta css
+- coloca ! e aperta enter
+- linka o css usando o "link" (no head) e o ./ para achar o diretório.
+- no body, linka o js usando o "script" e ./
+- pra usar uma fonte extena, vai no google fonts e pega o link Html lá e linka no head, depois é só colocar no css o nome da fonte entre aspas simples usando o "font-family"
+- para o ícone, vamos no font awesome, baixamos o svg e linkamos no body usando o "i"
+- 
+- 
+- 
+- View height é o tamanho da altura da tela que está rodando, se fosse um mobile ia ser o tamanho do mobile.
+- View Wight é que nem o view height.
+- sempre que ver * em programação ou é multiplicação ou é o documento todo.
+- Para eliminar o border no site todo, usamos o asterisco para selecionar todo o site, css e html e zera a margin e o padding.
+- iframe linka qualquer coisa que tenha o "copiar código de incroporação" AKA Embbed.
+- position: para usar, coloque primeiro display, para sumir com o cisa, pode usar o display none.
+- display block, flex,grid e in line.
+- para acessar elementos dentro de outros elementos, colocamos o elemento pai depois o filho e filho.
+- .root para armazenar variaveis e usar com placeholders.
+- 
